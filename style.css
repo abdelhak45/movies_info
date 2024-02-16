@@ -49,6 +49,8 @@ body{
     padding: 50px 10px;
     padding-bottom: 7px;
     margin-top: 50px;
+    position: absolute;
+    top: 142vh;
 }
 .divfo1{
     display: flex;
