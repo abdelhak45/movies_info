@@ -21,6 +21,7 @@ body{
     color: rgba(255, 0, 0, 0.61);
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
+    cursor: pointer;
 }
 
 #select{
