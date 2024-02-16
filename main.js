@@ -636,7 +636,7 @@ function getChara(e) {
     if (e === elem.original_title) {
       console.log(true);
       parent.innerHTML = `
-      <div class="cards" style="width: 500px;height: fit-content;border: 1px solid gray;border-radius: 10px;padding: 10px;color: gray;">
+      <div class="cards" style="width: 500px;height: fit-content;border: 1px solid gray;border-radius: 10px;padding: 10px;color: gray;margin-botton: 50px;">
       <img loading="lazy" src="${elem.poster_path}" width=" 100%" height=" 250">
       <h1 style="text-align: center;" >${elem.original_title}</h1>
       <span style="">
